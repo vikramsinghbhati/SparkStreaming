@@ -4,4 +4,4 @@ and print the output of input files data into batch as soon as input csv files a
 
 Note 1 :In this project, I have defined all paths and schema in separate configuration file(config.ini) and used in main pipeline using configparser
 
-Note 2 : more SparkStreaming related operations will be added to this project and will publish 
+Note 2 : More SparkStreaming related operations will be added to this project and will publish 
